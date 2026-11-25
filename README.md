@@ -21,6 +21,9 @@ should work the same way; this has not been tested.
 - Two front ends sharing one backend: a native **GTK4** window and a local **web page**
 - `--demo` mode with simulated data, `--diag` mode for bug reports
 
+<img width="717" height="793" alt="immagine" src="https://github.com/user-attachments/assets/c7d01971-34fd-456f-aefd-34a32856117a" />
+
+
 ## Requirements
 
 **Tested on:** Fedora Linux (GNOME, PipeWire + WirePlumber, BlueZ), Python 3.13 and 3.15.
